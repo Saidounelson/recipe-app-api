@@ -14,4 +14,4 @@ def substract(x, y):
     """
     substract x and y  return resultat
     """
-    return y-x
+    return y - x
