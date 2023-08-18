@@ -1,10 +1,10 @@
 """
-    calculator function 
-    """
+        calculator function
+        """
 
 
 def add(x, y):
-    """ 
+    """
     add x and y return resultat
     """
     return x+y
